@@ -11,7 +11,7 @@ group: join
 
 
 ### Postdoctoral researchers
-If you have shared research interests and are interested in discussing a potential position (beginning no earlier than fall 2025), please email me. I am happy to discuss opportunities!
+If you have shared research interests and would like to discuss a potential position (beginning no earlier than fall 2025), please email me. I am happy to discuss opportunities!
 
 <br>
 
