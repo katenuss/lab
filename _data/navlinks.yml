@@ -1,17 +1,17 @@
 - name: home
-  link: "/"
+  link: "/lab/"
   group: home
 
 - name: news
-  link: "/news"
+  link: "/lab/news"
   group: news
 
 - name: research
-  link: "/research"
+  link: "/lab/research"
   group: research
 
 - name: publications
-  link: "/publications"
+  link: "/lab/publications"
   group: publications
 
 # - name: reviews
@@ -19,7 +19,7 @@
 #   group: reviews
 
 - name: members
-  link: "/members"
+  link: "/lab/members"
   group: members
 
 # - name: teaching
@@ -27,15 +27,15 @@
 #   group: courses
 
 - name: join
-  link: "/join"
+  link: "/lab/join"
   group: join
 
 - name: philosophy
-  link: "/compact"
+  link: "/lab/compact"
   group: compact
 
 - name: contact
-  link: "/contact"
+  link: "/lab/contact"
   group: contact
 
 # - name: private
