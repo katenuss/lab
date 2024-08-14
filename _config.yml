@@ -1,14 +1,14 @@
-name: "Computational Cognitive Neuroscience Lab"
-description: "This is the official web page for the CCN Lab at UCI."
+name: "Computation, Learning, & Development Lab"
+description: "This is the web page for the CoLD Lab at Boston University."
 
-url: "http://aaron.bornstein.org/lab/"
+url: "http://katenuss.com/lab/"
 
 # Google Analytics
-google_analytics: G-6D6YS935N4
+#oogle_analytics:
 
 paginate: 5
 plugins: [jekyll-paginate]
-paginate_path: "/lab/news/page:num"
+paginate_path: "/news/page:num"
 
 permalink: pretty
 markdown: kramdown
@@ -29,7 +29,7 @@ exclude:
 
 collections:
         affiliates:
-                output: true
+                output: false
         members:
                 output: true
         publications:
@@ -37,13 +37,13 @@ collections:
         reviews:
                 output: true
         alumni:
-                output: true
+                output: false
         sep:
                 output: true
         visitors:
-                output: true
+                output: false
         undergrads:
-                output: true
+                output: false
         pets:
-                output: true
+                output: false
 
