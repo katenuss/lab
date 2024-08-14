@@ -10,7 +10,7 @@ group: news
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="author">
     <span class="author"><a href="/lab/members#{{post.author}}">{{post.author}}</a></span><br>
-    <span class="date"><em>{{ post.date | date_to_long_string }}</em></span>
+    <span class="date"><em><a href="/lab/">{{ post.date | date_to_long_string }}</a></em></span>
   </p>
   <div class="content">
     {{ post.content }}
